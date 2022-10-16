@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeadScreams](https://github.com/DeadScreams)
 
-- ⚡ Fun fact **I love listening to metall music**
+- ⚡ Fun fact **i like to listen to metal music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
