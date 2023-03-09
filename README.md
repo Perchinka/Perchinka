@@ -2,9 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia </h3>
 
-- 🔭 I’m currently working on [Smth](smth)
-
-- 🌱 I’m currently learning **golang, TDD and docker techs**
+- 🔭 I’m currently working on the [Project](Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeadScreams](https://github.com/DeadScreams)
 
