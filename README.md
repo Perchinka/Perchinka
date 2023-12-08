@@ -7,7 +7,6 @@ I'm python developer and cybersecurity enthusiast
 *   🌍  I'm based in Cambridge
 *   🖥️  See my portfolio at [My website](http://alex.lukin.family)
 *   ✉️  You can contact me at [aleksei.v.lukin@gmail.com](mailto:aleksei.v.lukin@gmail.com)
-*   I do stuff :D
 
 ### Core skills 
 <p align="left">
@@ -19,10 +18,6 @@ I'm python developer and cybersecurity enthusiast
                   
 <p align="left"> <a href="https://www.github.com/Perchinka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alex-lukin-3b1520299/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-
-**My GitHub Stats**
-
-<a href="http://www.github.com/Perchinka"><img src="https://github-readme-stats.vercel.app/api?username=Perchinka&show_icons=true&hide=issues,contribs&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Perchinka's GitHub stats" /></a>
 
 > Not the best, but I'll fix it eventually :)
 
