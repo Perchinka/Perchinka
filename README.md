@@ -5,7 +5,7 @@ I'm python developer and cybersecurity enthusiast
 ----------------------------------------------
 
 *   🌍  I'm based in Cambridge
-*   🖥️  See my portfolio at [My website](http://alex.lukin.family)
+*   🖥️  [My website](http://alex.lukin.family)
 *   ✉️  You can contact me at [aleksei.v.lukin@gmail.com](mailto:aleksei.v.lukin@gmail.com)
 
 ### Core skills 
@@ -19,10 +19,10 @@ I'm python developer and cybersecurity enthusiast
 <p align="left"> <a href="https://www.github.com/Perchinka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alex-lukin-3b1520299/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 **Things I'm working on right now:**
-<div width="100%" align="center">
+<div width="100%" align="center">  
+
+<a href="https://github.com/Perchinka/Funny_CS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=Funny_CS&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
   
-<a href="https://github.com/Perchinka/CCC_ctf" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=CCC_ctf&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
-  
-<a href="https://github.com/Perchinka/My-Site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=My-Site&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Perchinka/TinyMMO_server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=TinyMMO_server&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 
 </div><br /><br /><br /><br /><br /><br /><br />
