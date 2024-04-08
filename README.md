@@ -21,8 +21,9 @@ I'm python developer and cybersecurity enthusiast
 **Things I'm working on right now:**
 <div width="100%" align="center">  
 
+<!--
 <a href="https://github.com/Perchinka/Funny_CS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=Funny_CS&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
-  
-<a href="https://github.com/Perchinka/TinyMMO_server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=TinyMMO_server&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+-->
+<a href="https://github.com/Perchinka/kandy_kafka" align="right"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=kandy_kafka&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 
 </div><br /><br /><br /><br /><br /><br /><br />
