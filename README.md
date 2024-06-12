@@ -5,7 +5,7 @@ I'm python developer and cybersecurity enthusiast
 ----------------------------------------------
 
 *   🌍  I'm based in Cambridge
-<!--*   🖥️  [My website](http://alex.lukin.family) -->
+*   🖥️  [My website](http://alex.lukin.family)
 *   ✉️  You can contact me at [aleksei.v.lukin@gmail.com](mailto:aleksei.v.lukin@gmail.com)
 *   🏅 My [portfolio](https://gist.github.com/Perchinka/05ac553a5a8e33466380fa10cd18f348)
 
