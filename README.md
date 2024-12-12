@@ -29,4 +29,5 @@ I can't put it here, as it's my A-levels project :((
 <a href="https://github.com/Perchinka/kandy_kafka" align="right"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Perchinka&repo=kandy_kafka&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 -->
 </div><br /><br /><br /><br /><br /><br /><br />
+
 [![wakatime](https://wakatime.com/badge/user/5fff4751-7833-4152-80d5-4e64560c6e02.svg)](https://wakatime.com/@5fff4751-7833-4152-80d5-4e64560c6e02)
