@@ -1,7 +1,7 @@
 Hi 👋 My name is **Alex**
 ===========================
 
-I'm python developer and cybersecurity enthusiast
+I'm software engineer and cybersecurity enthusiast
 ----------------------------------------------
 
 *   🌍  I'm based in Cambridge
